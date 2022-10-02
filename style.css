@@ -1,0 +1,153 @@
+body{
+    background-color: beige;
+    max-width: 1000px;
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}
+h1{
+   margin-top: 50px; 
+}
+#textarea{
+    background-color:darkslategray;
+    color:beige;
+    border-radius: 5%;
+    padding: 15px;
+    max-width: fit-content;
+    margin: 50px auto 0;
+}
+
+.cls-1 {
+    fill: #edeade;
+  }
+
+  .cls-2 {
+    fill: #fff;
+  }
+
+  .cls-3 {
+    fill: #efe2c3;
+  }
+
+  .cls-4 {
+    fill: #efe8ce;
+  }
+
+  .cls-5 {
+    fill: #925d57;
+  }
+
+  .cls-6 {
+    fill: #7dbe39;
+  }
+
+  .cls-7 {
+    fill: #94181c;
+  }
+
+  .cls-8 {
+    fill: #be2226;
+  }
+
+  .cls-9 {
+    fill: #d6552a;
+  }
+
+  .cls-10 {
+    fill: #00b6b9;
+  }
+
+  .cls-10,
+  .cls-11,
+  .cls-12,
+  .cls-13,
+  .cls-14,
+  .cls-15,
+  .cls-16,
+  .cls-17,
+  .cls-18,
+  .cls-19,
+  .cls-20,
+  .cls-21,
+  .cls-22,
+  .cls-23,
+  .cls-24 {
+    stroke-miterlimit: 10;
+  }
+
+  .cls-10,
+  .cls-11,
+  .cls-12,
+  .cls-17,
+  .cls-19,
+  .cls-21,
+  .cls-24 {
+    stroke: #000;
+  }
+
+  .cls-11 {
+    fill: #fff15c;
+  }
+
+  .cls-12 {
+    fill: #ffba2e;
+  }
+
+  .cls-13 {
+    fill: #fedb73;
+    stroke: #fcb42f;
+  }
+
+  .cls-14 {
+    fill: #eebb78;
+    stroke: #826840;
+  }
+
+  .cls-15 {
+    fill: #fcdf65;
+    stroke: #e3ae43;
+  }
+
+  .cls-16 {
+    fill: #fdde6f;
+  }
+
+  .cls-16,
+  .cls-22,
+  .cls-23 {
+    stroke: #e3ae42;
+  }
+
+  .cls-17 {
+    fill: #def1f2;
+  }
+
+  .cls-18 {
+    fill: #db8935;
+    stroke: #963;
+  }
+
+  .cls-19 {
+    fill: #d0002c;
+  }
+
+  .cls-20 {
+    fill: #d88c3b;
+    stroke: #a06932;
+  }
+
+  .cls-21 {
+    fill: #5cf4ff;
+  }
+
+  .cls-22 {
+    fill: #f9de69;
+  }
+
+  .cls-23 {
+    fill: #f4d954;
+  }
+
+  .cls-24 {
+    fill: none;
+  }
